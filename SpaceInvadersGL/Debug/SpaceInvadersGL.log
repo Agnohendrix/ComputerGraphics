@@ -1,0 +1,111 @@
+﻿  SpaceInvadersGL.cpp
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(28): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(96): warning C4244: 'argomento': conversione da 'int' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(151): warning C4244: '-=': conversione da 'double' a 'int'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(159): warning C4244: '-=': conversione da 'double' a 'int'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(188): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(397): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(398): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(423): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(507): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(513): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(514): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(518): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(521): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(523): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(530): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(531): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(532): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(534): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(543): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(551): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(558): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(565): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(572): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(578): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(579): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(587): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(615): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(616): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(617): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(620): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(625): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(626): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(627): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(634): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(643): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(653): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(661): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(675): warning C4805: '==': combinazione non affidabile dei tipi 'boolean' e 'bool' nell'operazione
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(679): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(686): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(696): warning C4805: '==': combinazione non affidabile dei tipi 'boolean' e 'bool' nell'operazione
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(700): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(706): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(716): warning C4805: '==': combinazione non affidabile dei tipi 'boolean' e 'bool' nell'operazione
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(720): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(726): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(736): warning C4805: '==': combinazione non affidabile dei tipi 'boolean' e 'bool' nell'operazione
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(740): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(744): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(746): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(756): warning C4805: '==': combinazione non affidabile dei tipi 'boolean' e 'bool' nell'operazione
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(760): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(764): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(766): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(776): warning C4805: '==': combinazione non affidabile dei tipi 'boolean' e 'bool' nell'operazione
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(780): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(784): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(786): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(797): warning C4805: '==': combinazione non affidabile dei tipi 'boolean' e 'bool' nell'operazione
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(801): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(805): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(807): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(818): warning C4805: '==': combinazione non affidabile dei tipi 'boolean' e 'bool' nell'operazione
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(822): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(826): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(828): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(838): warning C4805: '==': combinazione non affidabile dei tipi 'boolean' e 'bool' nell'operazione
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(842): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(846): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(848): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(867): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(868): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(869): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(872): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(876): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(877): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(878): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(885): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(892): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(893): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(894): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(897): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(901): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(902): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(903): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(906): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(922): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(923): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(924): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(927): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(931): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(932): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(933): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(940): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(947): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(948): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(949): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(952): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(956): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(957): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(958): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(961): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(965): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(966): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(967): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(970): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(491): warning C4101: 'j': variabile locale senza riferimenti
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(491): warning C4101: 'i': variabile locale senza riferimenti
+c:\users\agnohendrix\source\repos\spaceinvadersgl\spaceinvadersgl\spaceinvadersgl.cpp(1002): warning C4326: il tipo restituito di 'main' dovrebbe essere 'int' invece di 'void'
+  SpaceInvadersGL.vcxproj -> C:\Users\Agnohendrix\source\repos\SpaceInvadersGL\Debug\SpaceInvadersGL.exe
